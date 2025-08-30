@@ -31,49 +31,41 @@ The dataset contains details of restaurants listed on Zomato Bengaluru, includin
 ### 1. Top 10 Restaurant Chains
 Shows the most popular restaurant chains in Bengaluru.  
 
-![Top 10 Restaurant Chains](images/top_restaurant_chains.png)
 
 ---
 
 ### 2. Online Order vs Rating
 Analyzes whether restaurants with **online order options** tend to have higher ratings.  
 
-![Online Order vs Rating](images/online_order_vs_rating.png)
 
 ---
 
 ### 3. Location-wise Restaurant Count
 Displays the number of restaurants in each location.  
 
-![Location-wise Restaurant Count](images/location_count.png)
-
 ---
 
 ### 4. WordCloud of Cuisines
 Highlights the most common cuisines served in Bengaluru.  
 
-![Cuisine WordCloud](images/cuisine_wordcloud.png)
 
 ---
 
 ### 5. WordCloud of Locations
 Highlights the most popular locations for restaurants in Bengaluru.  
 
-![Location WordCloud](images/location_wordcloud.png)
 
 ---
 
 ### 6. Votes vs Rating
 Scatter plot of **votes vs rating** to see if popularity aligns with customer satisfaction.  
 
-![Votes vs Rating](images/votes_vs_rating.png)
 
 ---
 
 ### 7. Correlation Heatmap
 Correlation between **votes, rating, and cost**.  
 
-![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
@@ -92,7 +84,21 @@ Correlation between **votes, rating, and cost**.
 - Time-based trend analysis  
 
 ---
-
+  
 ## 🙌 Acknowledgments
 Dataset sourced from Zomato Bengaluru open dataset (available on Kaggle).  
 This project is part of my **Data Science Portfolio**.  
+
+---
+
+## 🚀 How to Run  
+
+1. Clone this repository or download the script.  
+2. Install dependencies:  
+   ```bash
+
+----
+
+## 📌 Author
+👤 **Pranshu Pranjal**  
+📧 pranjalpranshu79@gmail.com
